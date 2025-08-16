@@ -26,7 +26,7 @@
 
 ### About Me
 
-- 🔭 **Currently working on** Web3 and Blockchain projects.
+- 🔭 **Working on** Web3 and Blockchain projects.
 - 🌱 **Exploring** DeFi protocols and Smart Contract development.
 - 💡 **Passionate about** building decentralized applications.
 - 🎮 **Fun fact:** I go by **"Tetris"** in the dev community!
@@ -45,7 +45,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashu1412&theme=dark" alt="aashu1412" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aashu1412&show_icons=true&theme=dark" alt="aashu1412" />
 </div>
 
 <br>
