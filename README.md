@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Ashutosh Mittal (Tetris)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Web3+Developer;MERN+Stack+Developer;Blockchain+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web3+Developer;DeFi+%26+DApp+Enthusiast;Blockchain+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 
 </div>
 
@@ -36,7 +36,7 @@
 ### 💻 My Stack: Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,mysql,git,linux,graphql,firebase,postman,c,cpp,python,java,arduino,rust,mocha" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,mysql,git,linux,graphql,firebase,postman,c,cpp,python,java,arduino,rust,lua" />
 </p>
 
 ---
