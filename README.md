@@ -36,7 +36,7 @@
 ### 💻 My Stack: Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,mysql,git,linux,graphql,firebase,postman,c,cpp,python,java,arduino,rust,lua" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,mysql,git,linux,graphql,firebase,postman,c,cpp,python,java,arduino,rust,lua,docker,jenkins" />
 </p>
 
 ---
